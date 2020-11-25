@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP21</string>
+    <string name="hello_fragment_one">Hello fragment one</string>
+    <string name="hello_fragment_two">Hello fragment two</string>
+</resources>
