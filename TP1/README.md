@@ -24,6 +24,6 @@ La seconde Activité affichera les éléments envoyés :
 
 <img src="snapshot2.png" width="300">
 
-- remplacer ensuite le `LinearLayout` par un `RelativeLayout`
+- remplacer ensuite le `LinearLayout` par un `ConstrainedLayout`
 - internationaliser l'application, en rajoutant au moins la langue anglaise
 - sauvegarder les champs saisis dans les préférences partagées : les champs sont restaurés quand l'application est relancée
