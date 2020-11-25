@@ -1,4 +1,4 @@
-package p4a.tp12;
+package lpcdad.tp12;
 
 import org.junit.Test;
 
