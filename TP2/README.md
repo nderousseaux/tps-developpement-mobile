@@ -1,11 +1,4 @@
-# TP2 :  Fragment, NavigationDrawer
-
-## Instructions 
-
-- faire des commits réguliers et commentés à bon escient
-- faire un push en fin de séance
-
-## Fragments
+# TP2 :  Fragments
 
 Pour plus de détails lire la documentation officielle : https://developer.android.com/guide/components/fragments.html
 
