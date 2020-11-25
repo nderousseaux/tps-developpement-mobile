@@ -1,4 +1,4 @@
-package p4a.tp11;
+package lpcdad.tp11;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
