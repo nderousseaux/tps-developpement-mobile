@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tp1_2</string>
+    <string name="name">Prénom</string>
+    <string name="lastname">Nom</string>
+    <string name="phone">Téléphone</string>
+    <string name="mail">Courriel</string>
+    <string name="address">Adresse</string>
+    <string name="delete">Effacer</string>
+</resources>
