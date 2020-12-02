@@ -18,4 +18,5 @@ On souhaite rajouter les fonctionnalités suivantes :
 * Créer le fragment et le layout correspondant (vous pourrez utiliser le template `FragmentList` d'Android Studio) (documentation sur les `RecyclerView`: [https://developer.android.com/guide/topics/ui/layout/recyclerview](https://developer.android.com/guide/topics/ui/layout/recyclerview).
 * Rendre la liste "cliquable"
 * Mise à jour du fond d'écran :  [WallPaperManager](https://developer.android.com/reference/android/app/WallpaperManager).
+* Trouver une solution pour naviguer de page en page dans le résultat de la recherche.
   
