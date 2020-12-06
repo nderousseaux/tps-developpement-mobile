@@ -9,11 +9,12 @@ import androidx.fragment.app.FragmentTransaction;
 
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements FragmentOne.FragmentOneUpdated {
 
-    private FragmentOne fragmentOne = new FragmentOne();
-    private FragmentTwo fragmentTwo = new FragmentTwo();
+    FragmentOne fragmentOne = new FragmentOne();
+    FragmentTwo fragmentTwo = new FragmentTwo();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,5 +42,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    
+
+    @Override
+    public void updateFragment() {
+        fragmentTwo.update();
+    }
 }

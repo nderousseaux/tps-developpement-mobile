@@ -11,6 +11,8 @@ import android.view.ViewGroup;
  */
 public class FragmentTwo extends Fragment {
 
+    String msg;
+
     public FragmentTwo() {}
 
     @Override
@@ -18,6 +20,10 @@ public class FragmentTwo extends Fragment {
                              Bundle savedInstanceState) {
         super.onCreateView(inflater,container,savedInstanceState);
         return inflater.inflate(R.layout.fragment_fragment_two, container, false);
+    }
+
+    void update(){
+
     }
 
 }
